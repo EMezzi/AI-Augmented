@@ -1,0 +1,8792 @@
+[
+    {
+        "id": 0,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 1,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 2,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 3,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 4,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 5,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 6,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 7,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 8,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 9,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 10,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 11,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 12,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 13,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 14,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 15,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 16,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 17,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 18,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 19,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 20,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 21,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 22,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 23,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 24,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 25,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 26,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 27,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 28,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 29,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 30,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 31,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 32,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 33,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 34,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 35,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 36,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 37,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 38,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 39,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 40,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 41,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 42,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 43,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 44,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 45,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 46,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 47,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 48,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 49,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 50,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 51,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 52,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 53,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 54,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 55,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 56,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 57,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 58,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 59,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 60,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 61,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 62,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 63,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 64,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 65,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 66,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 67,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 68,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 69,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 70,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 71,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 72,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 73,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 74,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 75,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 76,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 77,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 78,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 79,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 80,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 81,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 82,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 83,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 84,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 85,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 86,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 87,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 88,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 89,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 90,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 91,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 92,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 93,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 94,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 95,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 96,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 97,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 98,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 99,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 100,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 101,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 102,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 103,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 104,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 105,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 106,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 107,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 108,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 109,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 110,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 111,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 112,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 113,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 114,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 115,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 116,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 117,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 118,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 119,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 120,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 121,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 122,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 123,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 124,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 125,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 126,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 127,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 128,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 129,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 130,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 131,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 132,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 133,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 134,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 135,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 136,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 137,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 138,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 139,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 140,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 141,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 142,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 143,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 144,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 145,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 146,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 147,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 148,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 149,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 150,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 151,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 152,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 153,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 154,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 155,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 156,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 157,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 158,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 159,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 160,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 161,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 162,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 163,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 164,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 165,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 166,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 167,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 168,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 169,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 170,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 171,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 172,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 173,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 174,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 175,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 176,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 177,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 178,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 179,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 180,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 181,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 182,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 183,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 184,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 185,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 186,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 187,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 188,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 189,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 190,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 191,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 192,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 193,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 194,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 195,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 196,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 197,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 198,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 199,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 200,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 201,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 202,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 203,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 204,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 205,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 206,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 207,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 208,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 209,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 210,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 211,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 212,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 213,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 214,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 215,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 216,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 217,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 218,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 219,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 220,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 221,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 222,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 223,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 224,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 225,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 226,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 227,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 228,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 229,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 230,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 231,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 232,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 233,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 234,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 235,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 236,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 237,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 238,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 239,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 240,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 241,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 242,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 243,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 244,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 245,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 246,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 247,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 248,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 249,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 250,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 251,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 252,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 253,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 254,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 255,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 256,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 257,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 258,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 259,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 260,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 261,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 262,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 263,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 264,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 265,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 266,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 267,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 268,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 269,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 270,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 271,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 272,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 273,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 274,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 275,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 276,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 277,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 278,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 279,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 280,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 281,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 282,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 283,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 284,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 285,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 286,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 287,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 288,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 289,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 290,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 291,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 292,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 293,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 294,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 295,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 296,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 297,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 298,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 299,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 300,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 301,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 302,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 303,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 304,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 305,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 306,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 307,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 308,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 309,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 310,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 311,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 312,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 313,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 314,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 315,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 316,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 317,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 318,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 319,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 320,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 321,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 322,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 323,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 324,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 325,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 326,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 327,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 328,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 329,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 330,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 331,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 332,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 333,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 334,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 335,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 336,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 337,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 338,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 339,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 340,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 341,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 342,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 343,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 344,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 345,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 346,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 347,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 348,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 349,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 350,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 351,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 352,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 353,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 354,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 355,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 356,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 357,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 358,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 359,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 360,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 361,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 362,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 363,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 364,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 365,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 366,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 367,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 368,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 369,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 370,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 371,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 372,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 373,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 374,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 375,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 376,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 377,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 378,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 379,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 380,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 381,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 382,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 383,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 384,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 385,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 386,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 387,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 388,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 389,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 390,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 391,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 392,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 393,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 394,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 395,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 396,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 397,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 398,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 399,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 400,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 401,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 402,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 403,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 404,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 405,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 406,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 407,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 408,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 409,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 410,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 411,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 412,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 413,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 414,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 415,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 416,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 417,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 418,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 419,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 420,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 421,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 422,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 423,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 424,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 425,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 426,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 427,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 428,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 429,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 430,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 431,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 432,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 433,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 434,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 435,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 436,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 437,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 438,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 439,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 440,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 441,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 442,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 443,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 444,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 445,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 446,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 447,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 448,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 449,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 450,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 451,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 452,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 453,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 454,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 455,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 456,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 457,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 458,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 459,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 460,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 461,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 462,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 463,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 464,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 465,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 466,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 467,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 468,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 469,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 470,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 471,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 472,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 473,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 474,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 475,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 476,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 477,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 478,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 479,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 480,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 481,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 482,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 483,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 484,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 485,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 486,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 487,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 488,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 489,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 490,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 491,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 492,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 493,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 494,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 495,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 496,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 497,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 498,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 499,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 500,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 501,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 502,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 503,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 504,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 505,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 506,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 507,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 508,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 509,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 510,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 511,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 512,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 513,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 514,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 515,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 516,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 517,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 518,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 519,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 520,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 521,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 522,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 523,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 524,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 525,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 526,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 527,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 528,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 529,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 530,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 531,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 532,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 533,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 534,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 535,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 536,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 537,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 538,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 539,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 540,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 541,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 542,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 543,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 544,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 545,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 546,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 547,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 548,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 549,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 550,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 551,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 552,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 553,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 554,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 555,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 556,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 557,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 558,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 559,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 560,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 561,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 562,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 563,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 564,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 565,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 566,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 567,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 568,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 569,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 570,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 571,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 572,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 573,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 574,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 575,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 576,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 577,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 578,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 579,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 580,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 581,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 582,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 583,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 584,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 585,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 586,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 587,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 588,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 589,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 590,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 591,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 592,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 593,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 594,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 595,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 596,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 597,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 598,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 599,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 600,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 601,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 602,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 603,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 604,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 605,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 606,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 607,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 608,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 609,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 610,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 611,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 612,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 613,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 614,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 615,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 616,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 617,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 618,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 619,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 620,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 621,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 622,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 623,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 624,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 625,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 626,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 627,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 628,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 629,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 630,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 631,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 632,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 633,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 634,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 635,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 636,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 637,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 638,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 639,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 640,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 641,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 642,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 643,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 644,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 645,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 646,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 647,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 648,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 649,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 650,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 651,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 652,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 653,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 654,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 655,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 656,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 657,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 658,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 659,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 660,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 661,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 662,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 663,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 664,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 665,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 666,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 667,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 668,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 669,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 670,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 671,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 672,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 673,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 674,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 675,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 676,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 677,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 678,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 679,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 680,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 681,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 682,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 683,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 684,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 685,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 686,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 687,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 688,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 689,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 690,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 691,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 692,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 693,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 694,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 695,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 696,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 697,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 698,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 699,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 700,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 701,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 702,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 703,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 704,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 705,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 706,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 707,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 708,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 709,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 710,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 711,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 712,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 713,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 714,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 715,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 716,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 717,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 718,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 719,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 720,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 721,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 722,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 723,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 724,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 725,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 726,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 727,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 728,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 729,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 730,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 731,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 732,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 733,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 734,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 735,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 736,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 737,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 738,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 739,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 740,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 741,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 742,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 743,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 744,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 745,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 746,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 747,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 748,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 749,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 750,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 751,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 752,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 753,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 754,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 755,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 756,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 757,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 758,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 759,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 760,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 761,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 762,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 763,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 764,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 765,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 766,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 767,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 768,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 769,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 770,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 771,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 772,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 773,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 774,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 775,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 776,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 777,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 778,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 779,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 780,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 781,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 782,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 783,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 784,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 785,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 786,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 787,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 788,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 789,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 790,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 791,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 792,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 793,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 794,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 795,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 796,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 797,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 798,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 799,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 800,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 801,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 802,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 803,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 804,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 805,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 806,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 807,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 808,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 809,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 810,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 811,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 812,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 813,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 814,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 815,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 816,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 817,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 818,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 819,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 820,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 821,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 822,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 823,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 824,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 825,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 826,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 827,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 828,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 829,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 830,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 831,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 832,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 833,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 834,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 835,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 836,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 837,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 838,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 839,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 840,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 841,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 842,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 843,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 844,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 845,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 846,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 847,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 848,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 849,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 850,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 851,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 852,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 853,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 854,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 855,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 856,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 857,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 858,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 859,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 860,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 861,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 862,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 863,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 864,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 865,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 866,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 867,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 868,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 869,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 870,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 871,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 872,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 873,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 874,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 875,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 876,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 877,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    },
+    {
+        "id": 878,
+        "vuln": 0,
+        "work": 1,
+        "class": 1,
+        "fix": "yes",
+        "vuln_old": 1,
+        "work_old": 1,
+        "class_old": 1
+    }
+]
