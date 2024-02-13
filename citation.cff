@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Papotti"
+  given-names: "Aurora"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Mezzi"
+  given-names: "Emanuele"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "AI-Augmented"
+version: 2.0
+url: "https://github.com/EMezzi/AI-Augmented.git"
